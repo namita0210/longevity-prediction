@@ -13,3 +13,5 @@
 <li>Infectious</li>
 <li>Environment Based</li>
 <li>Unspecified</li>
+
+I divided the diseases into 4 subgroups
